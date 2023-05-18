@@ -1,0 +1,28 @@
+{
+	type: "player"
+	id: "8bc6c4b5-55e5-4195-9869-d09eb0c67d58"
+	properties: {
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:display_name": "MrManhey"
+		"ftbteams:description": ""
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:location_mode": "allies"
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbteams:color": "#FFAE59"
+	}
+	extra: { }
+	player_name: "MrManhey"
+	message_history: [ ]
+	ranks: {
+		8bc6c4b5-55e5-4195-9869-d09eb0c67d58: "owner"
+	}
+}
